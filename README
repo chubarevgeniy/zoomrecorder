@@ -1,0 +1,7 @@
+1. Check comments in config.py
+2. install dependencies
+3. run main.py
+4. program will start record once you join zoom of teams meeting
+5. program will stop recording once meeting ends
+6. program waiting for the next meeting
+7. use ctrl+c to stop program
